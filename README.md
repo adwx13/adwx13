@@ -5,6 +5,7 @@
 Qoo10 : 2018.09 ~ 2020.11 (2y3m)
 - Live10 (쇼핑 메신저 앱)
 
-Freelancer : 2021.05 ~
+Freelancer(Icube-On) : 2021.05 ~
 - KT whowho (스팸 안심 차단 앱)
+- Callee (자동 응답, 주문 앱)
 
