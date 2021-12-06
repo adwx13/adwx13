@@ -5,7 +5,10 @@
 Qoo10 : 2018.09 ~ 2020.11 (2y3m)
 - Live10 (쇼핑 메신저 앱)
 
-Freelancer(Icube-On) : 2021.05 ~
+Freelancer
+Icube-On : 2021.05 ~ 2021.11
 - KT whowho (스팸 안심 차단 앱)
-- Callee (자동 응답, 주문 앱)
+- WhoWho 삼성 통화녹음 (통화녹음 앱)
 
+FutureSolution : 2021.11 ~ 2021.11
+- 마이비즈카드, 스마트비즈카드 (개인용 명함관리, 기업관리 앱)
